@@ -1,8 +1,8 @@
 # Challengue - Recipes App 🍛
 
-Reto tecnico para puesto de Android Developer en Yape.
+Reto técnico para puesto de Android Developer en Yape.
 
-### Descripcion:
+### Descripción:
 
 El diseño de la Aplicación se inspiró en la sección de comida de la aplicación de Yape, esto para demostrar mis habilidades en maquetación y el uso correcto los componentes basados en Material 3 con Jetpack Compose, usando buenas prácticas de desarrollo aplicando patrones de diseño y arquitectura limpia. Así mismo se agregan algunas funcionalidades que impactan positivamente en la experiencia de usuario. 
 
@@ -22,7 +22,7 @@ Rerefencia: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architect
 
 ## Screenshots Responsive
 
-Se le dio soporte a los distintos tipos de pantallas para obtener un diseño responsive adaptable, esto generando Types que permitan personalizar el tamaño de las fuentes y dimensiones.
+Se le dió soporte a los distintos tipos de pantallas para obtener un diseño responsive adaptable, esto generando Types que permitan personalizar el tamaño de las fuentes y dimensiones.
 
 Small               |  Medium                    
 :-------------------------:|:-------------------------:
@@ -51,10 +51,10 @@ Detalle de receta               |  Mapa origen de receta
 | `x-api-key` | `DrkHAF?P7j8zoCx4ozG!7MHiHk8cD#zs&` | **Requerido**. para oobtener las recetas. |
 
 
-## Librerias usadas
+## Librerías usadas
 #### Coil - Renderizar images
 https://github.com/coil-kt/coil
-#### Dagger Hilt - Inyeccion de dependencias
+#### Dagger Hilt - Inyección de dependencias
 
 https://dagger.dev/hilt/
 
@@ -76,7 +76,7 @@ https://hamcrest.org/JavaHamcrest/javadoc/2.2/
 #### Mock Web Server - Servidor web programable para probar clientes HTTP
 https://github.com/square/okhttp/tree/master/mockwebserver
 
-#### Mockito - Creacion de objetos simulados (mocks) en pruebas unitarias
+#### Mockito - Creación de objetos simulados (mocks) en pruebas unitarias
 https://site.mockito.org/
 
 
@@ -88,7 +88,7 @@ Las pruebas unitarias se implementaron en 2 archivos en las rutas que se indican
 
 #### app/src/test/java/com/fraporitmos/yapechallengue/dataAccess/ResponseServerTest.kt 
 
-En estos archivos podemos ejecutar las distintas validaciones de la informacón esencial que se solicitó como requisito para implemtar la aplicación, asi mismo se valida la pruebas locales y remotas de la API.
+En estos archivos podemos ejecutar las distintas validaciones de la informacón esencial que se solicitó como requisito para implementar la aplicación, asi mismo se valida la pruebas locales y remotas de la API.
 
 
 

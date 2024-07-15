@@ -10,15 +10,6 @@ El diseño de la Aplicación se inspiró en la sección de comida de la aplicaci
 
 https://drive.google.com/file/d/1vdOK4sOGAd3KRNlRl87iL8CtNPWibqr7/view?usp=sharing
 
-## Arquitectura
-
-Es la forma de organizar un proyecto en capas para desacoplar la responsabilidad y encapsular cada capa. Tenemos
-Por ejemplo la capa lógica de negocio llamada dominio, también tenemos la capa de datos y la capa de presentación que sería la encargada de mostrar la interfaz de usuario a los usuarios finales.
-Este enfoque tiene una preocupación por componente, lo que significa que el proyecto será altamente escalable y fácil de probar.
-
-![](https://res.cloudinary.com/dokwcwo9t/image/upload/v1711155602/yape/Untitled-2024-03-22-1958_bki5h4.png)
-
-Rerefencia: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 
 ## Screenshots Responsive
 

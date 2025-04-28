@@ -93,4 +93,7 @@ Detectar conexión              |  Soporte para ver recetas Offline
 :-------------------------:|:-------------------------:
 ![](https://res.cloudinary.com/dokwcwo9t/image/upload/v1711159119/yape/Screenshot_1711158685-portrait_1_euxizz.png)|![](https://res.cloudinary.com/dokwcwo9t/image/upload/v1711159120/yape/Screenshot_1711158740-portrait_1_hggakx.png)
 
+979507675
+962103011
+
 
